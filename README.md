@@ -1,4 +1,4 @@
-# ARIA Core — Talent Screening System
+# JOB Acquisition Core — Talent Screening System
 
 **ARIA Core** is an evidence-based, explainable candidate screening engine powered by a **Two-Model Architecture** (**Llama 3.2** local GPU + **Groq** cloud API), **PyMuPDF** document processing, **Pydantic** output validation, **deterministic Python scoring**, and **SQLite recruitment memory**.
 
